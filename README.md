@@ -1,2 +1,2 @@
 # javadb
-Exploring Java with JDBC
+Exploring Java with JDBC 
